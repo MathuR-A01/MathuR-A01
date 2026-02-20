@@ -12,9 +12,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=MathuR-A01&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MathuR-A01&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MathuR-A01&show_icons=true&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MathuR-A01&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 ### ✍️ Random Dev Quote
