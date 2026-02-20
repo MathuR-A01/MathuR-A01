@@ -13,7 +13,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MathuR-A01&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MathuR-A01)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MathuR-A01&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
