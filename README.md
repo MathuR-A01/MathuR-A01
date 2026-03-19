@@ -26,7 +26,7 @@
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-aayu--port.vercel.app-a855f7?style=flat-square&logo=vercel&logoColor=white)](https://aayu-port.vercel.app)
 [![Views](https://komarev.com/ghpvc/?username=MathuR-A01&color=a855f7&style=flat-square&label=PROFILE+VIEWS)](https://github.com/MathuR-A01)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aayush--mathur--fullstack--web--developer-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aayush-mathur-fullstack-web-developer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aayushmathur--fullstack--web--developer-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aayush-mathur-fullstack-web-developer)
 [![Email](https://img.shields.io/badge/Email-mathur.aayush3780%40gmail.com-2dd4bf?style=flat-square&logo=gmail&logoColor=white)](mailto:mathur.aayush3780@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Amroha%2C_Uttar_Pradesh%2C_India-fbbf24?style=flat-square&logo=googlemaps&logoColor=black)](https://github.com/MathuR-A01)
 
