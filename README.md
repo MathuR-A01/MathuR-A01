@@ -5,7 +5,6 @@
 ╚══════════════════════════════════════════════════════════════════════╝
 -->
 
-<div align="center">
 
 <!-- ══════════════════════════════════════════════════════
      01 · ANIMATED HERO BANNER
@@ -116,8 +115,6 @@ Experienced in **Agile environments**, deployment, and production support — de
 
 </details>
 
----
-
 <!-- ══════════════════════════════════════════════════════
      04 · LIVE ANALYTICS SUITE
 ══════════════════════════════════════════════════════ -->
@@ -165,18 +162,11 @@ Role-based access control dashboard built with React.js — announcements, feedb
 
 `React.js` `RBAC` `REST APIs` `Postman` `Flutter`
 
-    </td>
-    <td width="50%" valign="top">
-
 **🟠 TMU AI Counsellor** *(AI-Powered Student Assistance)*
 
 AI chatbot using **n8n automation + RAG/LLM agents + Gemini**, handling **1,000+ university queries/month**. Secure webhooks, controlled prompts, TMU-specific compliance.
 
 `n8n` `RAG / LLM` `Gemini` `PostgreSQL` `Webhooks`
-
-    </td>
-  </tr>
-  <tr>
 
 **🟡 TMU GYM Dashboard & Mobile App** *(QA & Testing)*
 
@@ -184,16 +174,12 @@ End-to-end manual testing — functional, UI, negative & API flows. Defect ident
 
 `Manual Testing` `API Testing` `Android` `iOS` `Defect Tracking`
 
-    </td>
-    <td width="50%" valign="top">
-
 **🔴 Academic & Conference Web Platforms** *(Laravel Enterprise)*
 
 **150+ program pages**, **800GB+ server migration**, Laravel-based CMS, on-page SEO, cross-browser compatibility, large-scale data operations.
 
 `Laravel` `PHP` `MySQL` `Bootstrap` `On-page SEO` `Server Migration`
 
-    </td>
   </tr>
 </table>
 <!-- ══════════════════════════════════════════════════════
@@ -215,8 +201,6 @@ End-to-end manual testing — functional, UI, negative & API flows. Defect ident
 | ![Jest](https://img.shields.io/badge/Jest_+_RTL-C21325?style=flat-square&logo=jest&logoColor=white) | `Exploring` |
 | ![JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=flat-square&logo=apache&logoColor=white) | `On Roadmap` |
 
-    </td>
-    <td width="50%" valign="top">
 
 **🟠 AI Tools & Engineering — Deepening**
 
@@ -227,7 +211,6 @@ End-to-end manual testing — functional, UI, negative & API flows. Defect ident
 | ![TypeScript](https://img.shields.io/badge/TypeScript_Migration-3178C6?style=flat-square&logo=typescript&logoColor=white) | `Next Up` |
 | ![Docker](https://img.shields.io/badge/Docker_+_CI%2FCD-2496ED?style=flat-square&logo=docker&logoColor=white) | `On Roadmap` |
 
-    </td>
   </tr>
 </table>
 
@@ -243,8 +226,6 @@ End-to-end manual testing — functional, UI, negative & API flows. Defect ident
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-
 **📦 Shipping Now**
 
 | Signal | Details |
@@ -253,9 +234,6 @@ End-to-end manual testing — functional, UI, negative & API flows. Defect ident
 | 🤖 **Automating** | AI workflows & LLM agent pipelines with n8n |
 | 🧪 **Testing** | Expanding from manual → automated test coverage |
 | 📖 **Reading** | *Clean Architecture* · *The Art of Software Testing* |
-
-    </td>
-    <td width="50%" valign="top">
 
 **🤝 Open To Collaborate**
 
@@ -266,7 +244,6 @@ End-to-end manual testing — functional, UI, negative & API flows. Defect ident
 | 🌍 **Domains** | EdTech, SaaS, enterprise web, AI-powered tools |
 | 💬 **DM Me** | If you need a dev who codes AND tests — I do both! |
 
-    </td>
   </tr>
 </table>
 
