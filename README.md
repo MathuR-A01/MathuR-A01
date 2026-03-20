@@ -14,10 +14,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06080f,35:1a0a40,65:0a2030,100:a855f7&height=260&section=header&text=Aayush%20Mathur&fontSize=68&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%26%20Software%20Tester%20%7C%20Laravel%20%C2%B7%20React.js%20%C2%B7%20PHP%20%7C%20AI%20Automation%20%F0%9F%9A%80&descSize=14&descAlignY=58&descColor=2dd4bf&animation=fadeIn" alt="Aayush Mathur Banner" width="100%" />
 
 <!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2600&pause=900&color=A855F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%26+Software+Tester+%E2%9C%A6;Laravel+%C2%B7+React.js+%C2%B7+PHP+%C2%B7+MySQL+Engineer+%E2%9C%A6;Manual+%26+API+Testing+Expert+%E2%9C%A6;AI+Automation+with+n8n+%26+LLM+Agents+%E2%9C%A6;Open+Source+%26+Seamless+UX+Advocate+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
 <br/><br/>
 
 <!-- BADGES -->
@@ -47,33 +43,6 @@
 Experienced in **Agile environments**, deployment, and production support — delivering secure, stable, and user-focused solutions for product-based and enterprise systems. Currently expanding into **AI automation (n8n, LLM agents, RAG)** and automated testing tooling.
 
 </td></tr></table>
-
-```php
-<?php
-class AayushMathur {
-    public string $name       = "Aayush Mathur";
-    public string $alias      = "MathuR-A01";
-    public string $location   = "Amroha, Uttar Pradesh, India 🇮🇳";
-    public string $email      = "mathur.aayush3780@gmail.com";
-    public string $portfolio  = "https://aayu-port.vercel.app";
-    public string $phone      = "+91 7505800914";
-
-    public string $role       = "Full Stack Developer & Software Tester";
-    public string $experience = "3+ Years | TMU (Current) + Knocial India";
-    public string $philosophy = "Performance optimisation × Clean Code × Developer Experience";
-
-    public array $coreStack   = ["Laravel", "React.js", "PHP", "MySQL", "JavaScript ES6+"];
-    public array $testing     = ["Manual Testing", "API Testing", "Postman", "Defect Tracking"];
-    public array $aiTools     = ["n8n Automation", "RAG / LLM Agents", "Gemini", "Prompt Engineering"];
-    public array $learning    = ["Selenium", "Cypress.io", "LangChain", "TypeScript", "Jest"];
-
-    public function currentlyBuilding(): string {
-        return "AI-powered systems & scalable Laravel / React web platforms 🚀";
-    }
-}
-```
-
----
 
 <!-- ══════════════════════════════════════════════════════
      03 · INTERACTIVE SKILL GRID
@@ -172,20 +141,6 @@ class AayushMathur {
 
 </div>
 
----
-
-<!-- ══════════════════════════════════════════════════════
-     05 · ACHIEVEMENT VAULT
-══════════════════════════════════════════════════════ -->
-
-### 🏆 Achievement Vault
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MathuR-A01&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
-</div>
-
----
-
 <!-- ══════════════════════════════════════════════════════
      06 · CONTRIBUTION TOPOLOGY
 ══════════════════════════════════════════════════════ -->
@@ -203,10 +158,6 @@ class AayushMathur {
 ══════════════════════════════════════════════════════ -->
 
 ### 🗂️ Live Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
 
 **🟣 TMU ONE Admin Dashboard** *(React.js & Flutter)*
 
@@ -226,7 +177,6 @@ AI chatbot using **n8n automation + RAG/LLM agents + Gemini**, handling **1,000+
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
 
 **🟡 TMU GYM Dashboard & Mobile App** *(QA & Testing)*
 
@@ -246,51 +196,6 @@ End-to-end manual testing — functional, UI, negative & API flows. Defect ident
     </td>
   </tr>
 </table>
-
----
-
-<!-- ══════════════════════════════════════════════════════
-     08 · WORK EXPERIENCE
-══════════════════════════════════════════════════════ -->
-
-### 💼 Work Experience
-
-<table>
-  <tr>
-    <td width="60%"><b>🏛️ Teerthanker Mahaveer University (TMU)</b></td>
-    <td width="40%" align="right"><code>02/2023 — Present</code></td>
-  </tr>
-  <tr>
-    <td colspan="2"><i>Full Stack Developer & Software Tester · Moradabad, Uttar Pradesh</i></td>
-  </tr>
-</table>
-
-- ▸ Built & maintained scalable full-stack apps using HTML, CSS, JS, Bootstrap, React.js, Laravel & MySQL
-- ▸ Developed **AI-powered counselling system** (n8n + RAG + Gemini) handling **1,000+ queries/month**
-- ▸ Managed TMU ONE Admin Dashboard — RBAC, announcements, feedback & centralized CMS
-- ▸ Performed manual testing: functional, UI, negative & edge-case validation for web and mobile apps
-- ▸ Validated REST APIs using Postman and ensured reliable frontend-backend data flow
-- ▸ Executed **800GB+ server migration** and managed **150+ academic & conference web platforms**
-- ▸ Coordinated operational workflows during university events and stakeholder communications
-
-<br/>
-
-<table>
-  <tr>
-    <td width="60%"><b>🏢 Knocial India Limited</b></td>
-    <td width="40%" align="right"><code>05/2022 — 12/2022</code></td>
-  </tr>
-  <tr>
-    <td colspan="2"><i>Associate Software Engineer · Gurugram, Haryana</i></td>
-  </tr>
-</table>
-
-- ▸ Designed responsive UIs using HTML, CSS, JavaScript, Bootstrap & ASP.NET
-- ▸ Built dynamic UI components with client-side validations improving usability & interaction consistency
-- ▸ Performed UI testing, bug fixing & layout optimisation maintaining high visual quality standards
-
----
-
 <!-- ══════════════════════════════════════════════════════
      09 · CURRENTLY LEVELLING UP
 ══════════════════════════════════════════════════════ -->
@@ -386,33 +291,6 @@ End-to-end manual testing — functional, UI, negative & API flows. Defect ident
 <details>
 <summary><b>🔧 Activate the Snake (GitHub Actions Setup)</b></summary>
 
-Create `.github/workflows/snake.yml`:
-```yaml
-name: Generate Snake
-on:
-  schedule: [{ cron: "0 0 * * *" }]
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: MathuR-A01
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-</details>
-
----
-
 <!-- ══════════════════════════════════════════════════════
      12 · SOCIAL CONNECTIVITY
 ══════════════════════════════════════════════════════ -->
@@ -449,24 +327,6 @@ jobs:
 [ STACK: LARAVEL · REACT.JS · PHP · MYSQL · n8n · AI AGENTS · MANUAL TESTING ]
 [ LOCATION: AMROHA, UP, INDIA 🇮🇳 · EXPERIENCE: 3+ YEARS · STATUS: BUILDING ]
 ```
-
-**⭐ If my work helped you — a star fuels more open source. Thank you for visiting!**
-
-<br/>
-
-| 🔗 | Link |
-|:---:|:---|
-| ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) | [github.com/MathuR-A01](https://github.com/MathuR-A01) |
-| ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white) | [linkedin.com/in/aayush-mathur-fullstack-web-developer](https://linkedin.com/in/aayush-mathur-fullstack-web-developer) |
-| ![Portfolio](https://img.shields.io/badge/-Portfolio-a855f7?style=flat-square&logo=vercel&logoColor=white) | [aayu-port.vercel.app](https://aayu-port.vercel.app) |
-| ![Email](https://img.shields.io/badge/-Email-2dd4bf?style=flat-square&logo=gmail&logoColor=white) | [mathur.aayush3780@gmail.com](mailto:mathur.aayush3780@gmail.com) |
-
-<br/>
-
-![Crafted by](https://img.shields.io/badge/crafted_with_%E2%9A%A1_by-Aayush_Mathur_%C2%B7_MathuR--A01-a855f7?style=flat-square)
-
-</div>
-
 <!--
 ╔═══════════════════════════════════════════════════════════════════════╗
 ║   Reference-Grade README · Fork it · Star it · Make it your own     ║
