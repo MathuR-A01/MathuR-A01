@@ -294,12 +294,6 @@ End-to-end manual testing — functional, UI, negative & API flows. Defect ident
 
 </div>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:0a2030,100:06080f&height=130&section=footer" width="100%" />
-
 ```
 [ STACK: LARAVEL · REACT.JS · PHP · MYSQL · n8n · AI AGENTS · MANUAL TESTING ]
 [ LOCATION: AMROHA, UP, INDIA 🇮🇳 · EXPERIENCE: 3+ YEARS · STATUS: BUILDING ]
