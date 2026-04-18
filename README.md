@@ -1,65 +1,100 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Aayush%20Mathur%20&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Web%20Developer&descSize=18&descAlignY=55&textBg=false"/>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=MathuR-A01">
-    <img src="https://komarev.com/ghpvc/?username=MathuR-A01&label=Profile%20views&color=00FFFF&style=flat-square" alt="MathuR-A01's profile views" />
-  </a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Banner" width="100%" />
-
-## 🧠 My Focus Areas
-- Web Development
-- Operations Lead
-- Software (Manual Tester)
-
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/MathuR-A01">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MathuR-A01&cache_seconds=7200&layout=compact&theme=merko&border_radius=10" alt="MathuR-A01's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=MathuR-A01&theme=merko&hide_border=true&cache_seconds=86400" alt="MathuR-A01's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=MathuR-A01&theme=merko&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Aayush Mathur 's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=MathuR-A01&theme=merko&radius=10" alt="MathuR-A01's Activity Graph" />
-</p>
-
-
-## 🛠️ Languages & Tools
-
-> ## Programming Languages
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Frontend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Backend
-<p align="center"><img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="Laravel" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Database
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /></p>
-
-> ## Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /></p>
-
-<p align="center">
-  <a href="https://github.com/MathuR-A01">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MathuR-A01&langs_count=8&layout=compact&theme=merko&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
-## 🔗 Connect with Me
-<p align="center"><a href="aayushmathur-fs" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://wa.me/917505800914" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:mathur.aayush3780@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://aayu-port.vercel.app" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a></p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aayush%20Mathur%20&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Web%20Developer%20%7C%20Operations%20Tech%20Lead&descAlignY=55&descAlign=50" width="100%" />
 </div>
 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Optimising%20workflows%3Bone%20line%20of%20code%20at%20a%20time." alt="Typing SVG" />
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+<table>
+  <tr><td>💼 <strong>Role</strong></td><td>Web Developer & Opertions Tech Lead @ Teerthanker Mahaveer University</td></tr>
+  <tr><td>⏱️ <strong>Experience</strong></td><td>1–3 years (Junior)</td></tr>
+  <tr><td>📍 <strong>Location</strong></td><td>Moradabad</td></tr>
+  <tr><td>🌐 <strong>Portfolio</strong></td><td><a href="https//www.aayu-port.vercel.app">https//www.aayu-port.vercel.app</a></td></tr>
+  <tr><td>📫 <strong>Email</strong></td><td>mathur.aayush3780@gmail.com</td></tr>
+  <tr><td>😄 <strong>Pronouns</strong></td><td>he/him</td></tr>
+</table>
+
+Full Stack Web Developer and Software Tester with 3+ years of experience in designing, developing, testing, and maintaining scalable web applications.
+
+- 🔭 I'm currently working on **React, Laravel, Mysql and Ai Tools**
+- 🌱 I'm currently learning **N8N, Ai Automations, Rag Ai Agents, MERN Stack**
+- 👯 I'm looking to collaborate on **Ai Projects, Freelacing**
+- 💬 Ask me about **Froetend Development, System Designing, Opertaions Mangement**
+- ⚡ Fun fact: If you’ve ever felt your phone vibrate in your pocket only to find it wasn't there, you've experienced "phantom vibrations"
+
+---
+
+## 🛠️ Tech Stack
+
+<table>
+  <tr>
+    <td align="left" valign="top" width="150"><strong>💻 Languages</strong></td>
+    <td valign="middle"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="28" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="28" /></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top" width="150"><strong>🎨 Frontend</strong></td>
+    <td valign="middle"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="28" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" height="28" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="28" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" height="28" /> <img src="https://img.shields.io/badge/Material%20UI-555555?style=for-the-badge" alt="Material UI" height="28" /></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top" width="150"><strong>⚙️ Backend</strong></td>
+    <td valign="middle"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" height="28" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" height="28" /></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top" width="150"><strong>🗄️ Databases</strong></td>
+    <td valign="middle"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="28" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="28" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" height="28" /></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top" width="150"><strong>☁️ DevOps & Cloud</strong></td>
+    <td valign="middle"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" height="28" /></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top" width="150"><strong>🛠️ Tools</strong></td>
+    <td valign="middle"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="28" /> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28" /> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" height="28" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" height="28" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" height="28" /></td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<img src="https://komarev.com/ghpvc/?username=MathuR-A01&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MathuR-A01&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathuR-A01&layout=donut&langs_count=8&theme=nord&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MathuR-A01&theme=nord&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MathuR-A01&theme=nord&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https:/linkedin.com/in/aayush-mathur-fs" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/MathuR-A01" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://instagram.com/mathuraaush__01" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+
+---
+
+## ☕ Support & Hire
+
+<a href="mailto:mathur.aayush3780@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-Email-brightgreen?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire Me" /></a>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+</div>
