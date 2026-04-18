@@ -12,7 +12,7 @@
 
 <table>
   <tr><td>💼 <strong>Role</strong></td><td>Web Developer & Opertions Tech Lead @ Teerthanker Mahaveer University</td></tr>
-  <tr><td>⏱️ <strong>Experience</strong></td><td>1–3 years (Junior)</td></tr>
+  <tr><td>⏱️ <strong>Experience</strong></td><td>3–5 years (Mid)</td></tr>
   <tr><td>📍 <strong>Location</strong></td><td>Moradabad</td></tr>
   <tr><td>🌐 <strong>Portfolio</strong></td><td><a href="https//www.aayu-port.vercel.app">https//www.aayu-port.vercel.app</a></td></tr>
   <tr><td>📫 <strong>Email</strong></td><td>mathur.aayush3780@gmail.com</td></tr>
