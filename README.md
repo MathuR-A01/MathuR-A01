@@ -13,13 +13,29 @@
 <table>
   <tr><td>💼 <strong>Role</strong></td><td>Web Developer & Opertions Tech Lead @ Teerthanker Mahaveer University</td></tr>
   <tr><td>⏱️ <strong>Experience</strong></td><td>3–5 years (Mid)</td></tr>
-  <tr><td>📍 <strong>Location</strong></td><td>Moradabad</td></tr>
+  <tr><td>📍 <strong>Location</strong></td><td>Ghaziabad, Uttar Pradesh, India</td></tr>
   <tr><td>🌐 <strong>Portfolio</strong></td><td><a href="https//www.aayu-port.vercel.app">https//www.aayu-port.vercel.app</a></td></tr>
   <tr><td>📫 <strong>Email</strong></td><td>mathur.aayush3780@gmail.com</td></tr>
   <tr><td>😄 <strong>Pronouns</strong></td><td>he/him</td></tr>
 </table>
 
-Full Stack Web Developer and Software Tester with 3+ years of experience in designing, developing, testing, and maintaining scalable web applications.
+👋 Hey, I'm Aayush — a Full Stack Developer based in Ghaziabad, UP.
+
+For 3+ years, I've been the sole engineer behind a NAAC-A university's entire digital ecosystem — 9 live production platforms, serving 4,000–8,000 users daily. From slashing page load times by 80% (15s → 3s) to shipping an AI-powered RAG counsellor that handles student admissions queries autonomously — I build things that scale and last.
+
+I work across the full stack:
+→ Frontend: React.js, Nextjs, HTML5, CSS3, Bootstrap, JavaScript (ES6+)
+→ Backend: Laravel, PHP, Node.js, MySQL, REST APIs
+→ AI & Automation: N8N Workflows, RAG Pipelines, LLM / Prompt Engineering
+→ DevOps & QA: Git, Vercel, cPanel, Postman, Functional & Regression Testing
+→ SEO: Schema Markup, On-page Optimisation
+
+Beyond code, I've led cross-functional coordination across 35+ people, driven NAAC digital compliance, and shipped two international conference platforms under tight deadlines — with zero downtime.
+
+I care about performance, clean architecture, and building products that actually matter to the people using them.
+
+📍 Open to Full Stack / Frontend / SDE roles — Immediate Joiner
+🔗 Portfolio: aayu-port.vercel.app
 
 - 🔭 I'm currently working on **React, Laravel, Mysql and Ai Tools**
 - 🌱 I'm currently learning **N8N, Ai Automations, Rag Ai Agents, MERN Stack**
