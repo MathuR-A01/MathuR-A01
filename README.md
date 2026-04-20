@@ -40,7 +40,7 @@ I care about performance, clean architecture, and building products that actuall
 - 🔭 I'm currently working on **React, Laravel, Mysql and Ai Tools**
 - 🌱 I'm currently learning **N8N, Ai Automations, Rag Ai Agents, MERN Stack**
 - 👯 I'm looking to collaborate on **Ai Projects, Freelacing**
-- 💬 Ask me about **Froetend Development, System Designing, Opertaions Mangement**
+- 💬 Ask me about **Frontend Development, System Designing, Operations Management**
 - ⚡ Fun fact: If you’ve ever felt your phone vibrate in your pocket only to find it wasn't there, you've experienced "phantom vibrations"
 
 ---
