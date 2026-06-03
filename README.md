@@ -82,10 +82,6 @@ I care about performance, clean architecture, and building products that actuall
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MathuR-A01&theme=midnight_purple&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
-</p>
-
-<p align="center">
   <img src="https://readify-generator.vercel.app/api/wakatime?username=Aayu_010&theme=midnight_purple&hide_border=true&layout=compact&langs_count=10&range=last_7_days&cache_seconds=1800" alt="WakaTime Coding Activity" />
 </p>
 
