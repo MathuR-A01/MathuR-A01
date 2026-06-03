@@ -78,10 +78,6 @@ I care about performance, clean architecture, and building products that actuall
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MathuR-A01&theme=midnight_purple&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://readify-generator.vercel.app/api/wakatime?username=Aayu_010&theme=midnight_purple&hide_border=true&layout=compact&langs_count=10&range=last_7_days&cache_seconds=1800" alt="WakaTime Coding Activity" />
 </p>
 
