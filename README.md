@@ -14,7 +14,7 @@
   <tr><td>🔬 <strong>Specialization</strong></td><td>Web Development,  Operations Management and Manual Testing</td></tr>
   <tr><td>🌍 <strong>Open Source</strong></td><td>React, Laravel, MYSQL, PHP, NextJS, etc.</td></tr>
   <tr><td>📍 <strong>Location</strong></td><td>Moradabad</td></tr>
-  <tr><td>🌐 <strong>Portfolio</strong></td><td><a href="aayu-port.vercel.app">Aayush Portfolio</a></td></tr>
+  <tr><td>🌐 <strong>Portfolio</strong></td><td><a href="https://aayu-port.vercel.app">Aayush Portfolio</a></td></tr>
   <tr><td>📫 <strong>Email</strong></td><td>mathur.aayush3780@gmail.com</td></tr>
   <tr><td>😄 <strong>Pronouns</strong></td><td>he/him</td></tr>
 </table>
