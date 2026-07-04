@@ -102,9 +102,7 @@ I care about performance, clean architecture, and building products that actuall
 
 ### ⏱️ Coding Activity
 
-<p align="center">
-  <img src="./assets/coding-activity.svg" alt="Coding Activity" width="700" />
-</p>
+<img src="./assets/coding-activity.svg" alt="Coding Activity" width="700" />
 
 ---
 
