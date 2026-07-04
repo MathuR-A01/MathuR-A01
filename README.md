@@ -86,16 +86,16 @@ I care about performance, clean architecture, and building products that actuall
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MathuR-A01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MathuR-A01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
   <img height="165" src="https://streak-stats.demolab.com?user=MathuR-A01&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathuR-A01&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Top Languages" width="380" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MathuR-A01&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=1800" alt="Top Languages" width="380" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MathuR-A01&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+  <img src="https://ghchart.rshah.org/58A6FF/MathuR-A01" alt="Contribution Graph" width="100%" />
 </p>
 
 ---
