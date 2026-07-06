@@ -9,6 +9,7 @@
 ---
 
 ## 👨‍💻 About Me
+I'm a Full Stack Developer & Tech Operations Lead with 3+ years of single-handedly engineering and running the entire digital ecosystem of a NAAC-A-accredited university — 12 live production platforms serving 4,000–8,000 daily users, with zero critical bugs sustained over 12+ months. I've cut page load times by 80% (15s → 3s), automated manual workflows with N8N-powered RAG AI agents (saving ~3 hrs/week), and led a 35+ member cross-functional team through SOP design, SLA governance, and incident escalation. I build with React, Node.js, and Laravel — and I run operations with the same discipline I write code with.
 
 <table>
   <tr><td>📍 <strong>Location</strong></td><td>Moradabad, Uttar Pradesh,  India</td></tr>
@@ -21,7 +22,7 @@
 - 🌱 I'm currently learning ** MERN Stack Development, AI Tools, LLM, Rag AI Agents.**
 - 👯 I'm looking to collaborate on **Startups, MNCs**
 - 💬 Ask me about **System Designing, Frontend Development**
-- ⚡ Fun fact: ⚡ Fun fact: If you’ve ever felt your phone vibrate in your pocket only to find it wasn't there, you've experienced "phantom vibrations"
+- ⚡ Fun fact: If you’ve ever felt your phone vibrate in your pocket only to find it wasn't there, you've experienced "phantom vibrations"
 
 ---
 
