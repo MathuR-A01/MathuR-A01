@@ -12,7 +12,7 @@
 
 <table>
   <tr><td>📍 <strong>Location</strong></td><td>Moradabad, Uttar Pradesh,  India</td></tr>
-  <tr><td>🌐 <strong>Portfolio</strong></td><td><a href="https://aayu.port.vercel.app">aayu.port.vercel.app</a></td></tr>
+  <tr><td>🌐 <strong>Portfolio</strong></td><td><a href="https://aayu-port.vercel.app">Aayush Portfolio</a></td></tr>
   <tr><td>📫 <strong>Email</strong></td><td>mathur.aayush3780@gmail.com</td></tr>
   <tr><td>😄 <strong>Pronouns</strong></td><td>he/him</td></tr>
 </table>
