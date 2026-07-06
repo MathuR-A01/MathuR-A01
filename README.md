@@ -12,13 +12,13 @@
 
 <table>
   <tr><td>📍 <strong>Location</strong></td><td>Moradabad, Uttar Pradesh,  India</td></tr>
-  <tr><td>🌐 <strong>Portfolio</strong></td><td><a href="aayu.port.vercel.app">aayu.port.vercel.app</a></td></tr>
+  <tr><td>🌐 <strong>Portfolio</strong></td><td><a href="https://aayu.port.vercel.app">aayu.port.vercel.app</a></td></tr>
   <tr><td>📫 <strong>Email</strong></td><td>mathur.aayush3780@gmail.com</td></tr>
   <tr><td>😄 <strong>Pronouns</strong></td><td>he/him</td></tr>
 </table>
 
 - 🔭 I'm currently working on **Teerthanker Mahaveer University**
-- 🌱 I'm currently learning **Mern Stack Development, and AI Tools, LLM, Rag AI Agents.**
+- 🌱 I'm currently learning ** MERN Stack Development, AI Tools, LLM, Rag AI Agents.**
 - 👯 I'm looking to collaborate on **Startups, MNCs**
 - 💬 Ask me about **System Designing, Frontend Development**
 - ⚡ Fun fact: ⚡ Fun fact: If you’ve ever felt your phone vibrate in your pocket only to find it wasn't there, you've experienced "phantom vibrations"
