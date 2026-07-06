@@ -56,36 +56,19 @@ Beyond code, I've led cross-functional coordination across 35+ people, driven NA
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
-
-**⏱️ Coding Activity**
-<br><sub>WakaTime · updated automatically by GitHub Action</sub>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
+<td width="48%" valign="top" align="center">
+  <img src="./assets/coding-activity-compact.svg" alt="Coding Activity" width="100%" />
 </td>
-<td width="50%" valign="top">
-
-**📦 GitHub Overview**
-<br><sub>Full-Stack Developer · member since 2022</sub>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MathuR-A01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" width="100%" />
-
-**🔥 Contribution Activity**
-
-<img src="https://streak-stats.demolab.com?user=MathuR-A01&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Streak Stats" width="100%" />
-
+<td width="4%"></td>
+<td width="48%" valign="top" align="center">
+  <img src="./assets/github-overview.svg" alt="GitHub Overview" width="100%" /><br/><br/>
+  <img src="./assets/contribution-activity.svg" alt="Contribution Activity" width="100%" />
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MathuR-A01&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MathuR-A01&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=1800" alt="Top Languages" width="380" />
+  <img src="./assets/contribution-graph-card.svg" alt="Contribution Graph" width="100%" />
 </p>
 
 ---
@@ -93,16 +76,15 @@ Beyond code, I've led cross-functional coordination across 35+ people, driven NA
 ### 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,php,html,css,tailwind,bootstrap&theme=dark" />
-<img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" />
-<img src="https://skillicons.dev/icons?i=laravel,nodejs&theme=dark" /
-<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase&theme=dark" />
-<img src="https://skillicons.dev/icons?i=vercel,netlify,linux,docker,githubactions&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,php,html,css,tailwind,bootstrap&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=laravel,nodejs&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=vercel,netlify,linux,docker,githubactions&theme=dark" /><br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" />
 </p>
 
 ---
-
 
 ### 🏆 Achievements
 
@@ -123,16 +105,12 @@ Beyond code, I've led cross-functional coordination across 35+ people, driven NA
 
 ---
 
-### 🌐 Connect With Me
+### ☕ Support & Hire
 
 <p align="center">
-  <a href="https://in.linkedin.com/in/aayush-mathur-fs" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://aayu-port.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:mathur.aayush3780@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/MathuR-A01" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:mathur.aayush3780@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-Email-brightgreen?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire Me" /></a>
 </p>
 
----
 ---
 
 <div align="center">
