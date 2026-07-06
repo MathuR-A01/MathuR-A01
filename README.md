@@ -93,53 +93,16 @@ Beyond code, I've led cross-functional coordination across 35+ people, driven NA
 ### 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,php,html,css,tailwind,bootstrap&theme=dark" /><br>
-<img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" /><br>
-<img src="https://skillicons.dev/icons?i=laravel,nodejs&theme=dark" /><br>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase&theme=dark" /><br>
-<img src="https://skillicons.dev/icons?i=vercel,netlify,linux,docker,githubactions&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=js,ts,php,html,css,tailwind,bootstrap&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=laravel,nodejs&theme=dark" /
+<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vercel,netlify,linux,docker,githubactions&theme=dark" />
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
-
-> Replace the `href` placeholders below with your actual repo / live links.
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎓 University Website Platform</h4>
-      Full digital ecosystem for a NAAC-A university — 9 production platforms serving 4,000–8,000 daily users.<br><br>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/><br><br>
-      <a href="https://github.com/MathuR-A01"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
-      <a href="https://aayu-port.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🤖 AI Student Counsellor (RAG)</h4>
-      AI-powered RAG counsellor that autonomously handles student admissions queries.<br><br>
-      <img src="https://img.shields.io/badge/N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white"/> <img src="https://img.shields.io/badge/LLM-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/><br><br>
-      <a href="https://github.com/MathuR-A01"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🏥 Hospital Management Website</h4>
-      Operations and management platform built for streamlined hospital workflows.<br><br>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/><br><br>
-      <a href="https://github.com/MathuR-A01"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎤 Research & Conference Portals</h4>
-      Two international conference platforms shipped under tight deadlines with zero downtime.<br><br>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/REST%20API-02569B?style=flat-square"/><br><br>
-      <a href="https://github.com/MathuR-A01"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
-    </td>
-  </tr>
-</table>
-
----
 
 ### 🏆 Achievements
 
@@ -170,13 +133,6 @@ Beyond code, I've led cross-functional coordination across 35+ people, driven NA
 </p>
 
 ---
-
-### ☕ Support & Hire
-
-<p align="center">
-<a href="mailto:mathur.aayush3780@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-Email-brightgreen?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire Me" /></a>
-</p>
-
 ---
 
 <div align="center">
