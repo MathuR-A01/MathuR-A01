@@ -66,7 +66,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MathuR-A01&theme=nord&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
+<img width="100%" src="https://streak-stats.demolab.com/?user=MathuR-A01&theme=nord&hide_border=true&timezone=Asia/Kolkata&cache_seconds=1" alt="GitHub Streak" />
 </p>
 
 <p align="center">
