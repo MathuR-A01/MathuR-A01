@@ -85,24 +85,24 @@ I care about performance, clean architecture, and building products that actuall
 
 ### 📊 GitHub Analytics
 
+<!-- Top row: Coding Activity (left tall card) + GitHub Overview & Contribution Activity (right stacked) -->
+<table width="100%" border="0" cellspacing="0" cellpadding="8">
+  <tr>
+    <td width="48%" valign="top" align="center">
+      <img src="./assets/coding-activity-compact.svg" alt="Coding Activity" width="100%" />
+    </td>
+    <td width="4%"></td>
+    <td width="48%" valign="top" align="center">
+      <img src="./assets/github-overview.svg" alt="GitHub Overview" width="100%" /><br/><br/>
+      <img src="./assets/contribution-activity.svg" alt="Contribution Activity" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<!-- Bottom row: Full-width contribution graph -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MathuR-A01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=MathuR-A01&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MathuR-A01&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Graph" alt="Contribution Graph" width="100%" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MathuR-A01&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=1800" alt="Top Languages" width="380" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/58A6FF/MathuR-A01" alt="Contribution Graph" width="100%" />
-</p>
-
----
-
-### ⏱️ Coding Activity
-
-<img src="./assets/coding-activity.svg" alt="Coding Activity" width="700" />
 
 ---
 
