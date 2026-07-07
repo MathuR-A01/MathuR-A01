@@ -67,7 +67,7 @@ I'm a Full Stack Developer & Tech Operations Lead with 3+ years of single-handed
 </p>
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MathuR-A01&theme=sakura-x&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun" alt="GitHub Streak" /></a>
+<img src="./profile/streak.svg" alt="GitHub Streak" />
 </p>
 
 <p align="center">
