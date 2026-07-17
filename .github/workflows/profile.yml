@@ -2,7 +2,6 @@ name: 🚀 Update GitHub Profile
 
 on:
   workflow_dispatch:
-
   schedule:
     - cron: "0 */12 * * *"
 
@@ -13,13 +12,19 @@ jobs:
   profile:
     runs-on: ubuntu-latest
 
+    env:
+      USERNAME: MathuR-A01
+      OUTPUT_DIR: assets
+
     steps:
       - name: 📥 Checkout Repository
         uses: actions/checkout@v4
 
-      - name: 📢 Workflow Started
+      - name: 📁 Create assets directory
+        run: mkdir -p assets
+
+      - name: 📋 Show Environment
         run: |
-          echo "GitHub Profile Update Started..."
-          echo "Repository: ${{ github.repository }}"
-          echo "Actor: ${{ github.actor }}"
-          echo "Workflow completed successfully."
+          echo "Username: $USERNAME"
+          echo "Output Directory: $OUTPUT_DIR"
+          ls -la
