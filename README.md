@@ -59,7 +59,9 @@ I'm a Full Stack Developer & Tech Operations Lead with 3+ years of single-handed
 
 ## 📊 GitHub Analytics
 
-<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=MathuR-A01&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MathuR-A01&show_icons=true&theme=nord&include_all_commits=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
+</p>
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MathuR-A01&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
