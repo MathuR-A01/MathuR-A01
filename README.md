@@ -59,23 +59,22 @@ I'm a Full Stack Developer & Tech Operations Lead with 3+ years of single-handed
 
 ## 📊 GitHub Analytics
 
+<img src="https://komarev.com/ghpvc/?username=MathuR-A01&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MathuR-A01&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MathuR-A01&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MathuR-A01&layout=default&langs_count=8&theme=nord&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Top Languages" />
+
+</p>
+
+
+<p align="center">
+<img src="./profile/streak.svg" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <!-- Fixed domain: pointing to official instance -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MathuR-A01&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathuR-A01&layout=default&langs_count=8&theme=nord&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <!-- Fixed streak URL using the hosted Streak Stats API -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MathuR-A01&theme=nord&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MathuR-A01&theme=nord&hide_border=true&area=true" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MathuR-A01&theme=nord&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
