@@ -59,7 +59,7 @@ I'm a Full Stack Developer & Tech Operations Lead with 3+ years of single-handed
 
 ## 📊 GitHub Analytics
 
-<img src="https://komarev.com/ghpvc/?username=MathuR-A01&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=MathuR-A01&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MathuR-A01&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
