@@ -58,12 +58,6 @@ I'm a Full Stack Developer & Tech Operations Lead with 3+ years of single-handed
 ---
 
 ## 📊 GitHub Analytics
-
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MathuR-A01&layout=default&langs_count=8&theme=nord&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Top Languages" />
-</p>
-
-
 <p align="center">
 <img src="./profile/streak.svg" alt="GitHub Streak" />
 </p>
